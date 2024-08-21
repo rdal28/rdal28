@@ -3,7 +3,7 @@
 <h2>📂 My Projects:</h2>
 
 - **AirWatcher - Air Quality Monitoring and Analysis Tool**: A C++ tool for monitoring and analyzing air quality. [View Project](https://github.com/riaddalaoui/AirWatcher-Software-Engineering-SchoolProject)
-- **DASI - Student Support Management App**: A web-based application for managing student support activities in academic institutions. [View Project]([StudentSupportManagementApp](https://github.com/riaddalaoui/StudentSupportManagementApp))
+- **DASI - Student Support Management App**: A web-based application for managing student support activities in academic institutions. [View Project](https://github.com/riaddalaoui/StudentSupportManagementApp)
 - **DASI - Spiritual Service Management System**: A Java application for managing spiritual services like astrology and cartomancy. [View Project](https://github.com/riaddalaoui/Spiritual-Service-Management-System)
 - **AJAX and Web Technologies**: A project showcasing the use of AJAX, XML, and JavaScript to create dynamic web pages. [View Project](https://github.com/riaddalaoui/AJAX-and-Web-Technologies)
 - **C++ - Log Management and Analysis Tool**: A C++ application for managing and analyzing log files, with data visualization capabilities. [View Project](https://github.com/riaddalaoui/Log-Management-and-Analysis-Tool)
